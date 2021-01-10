@@ -1,0 +1,16 @@
+{
+  "name": "piadas.adg",
+  "version": "1.0.0",
+  "description": "PiadasClient\r =\r Você pode criar um client usando:\r  ```js\r const piadasLib = require('piadas.adg')\r const PiadasClient = new piadasLib();\r const piada = await PiadasClient.randomPiada()\r console.log(piada); // randomPiada() = Promise\r ```",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["piadas", "brasil", "português", "jokes"],
+  "author": "adgdev",
+  "license": "ISC"
+}
