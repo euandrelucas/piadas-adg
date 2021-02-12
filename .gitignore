@@ -1,2 +1,8 @@
+# INUTIL FOLDERS
+
 /node_modules
-/package-lock.json
+/.vscode
+
+# INUTIL FILES
+
+package-lock.json
