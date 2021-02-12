@@ -1,5 +1,5 @@
 {
-  "name": "piadas.adg",
+  "name": "piadas-adg",
   "version": "1.1.1",
   "description": "Just a Simple joke library",
   "main": "index.js",
@@ -12,7 +12,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["piadas", "brasil", "português", "jokes", "piada", "joke"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yADGithub/piadas-adg.git"
+  },
+  "keywords": [
+    "piadas", 
+    "brasil", 
+    "português", 
+    "jokes", 
+    "piada", 
+    "joke"
+  ],
   "author": "adgdev",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Androz2091/discord-giveaways/issues"
+  }
 }
