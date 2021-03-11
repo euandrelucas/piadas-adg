@@ -1,8 +1,12 @@
 {
-  "name": "piadas-adg",
-  "version": "1.1.1",
-  "description": "Just a Simple joke library",
+  "name": "piadas-lib",
+  "version": "1.0.0",
+  "description": "Um package que gera piadas aleatorias",
   "main": "index.js",
+  "files": [
+    "src/",
+    "index.js"
+  ],
   "dependencies": {
     "axios": "0.21.1"
   },
@@ -24,9 +28,9 @@
     "piada", 
     "joke"
   ],
-  "author": "adgdev",
+  "author": "yADGithub",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Androz2091/discord-giveaways/issues"
+    "url": "https://github.com/yADGithub/piadas-adg/issues"
   }
 }
